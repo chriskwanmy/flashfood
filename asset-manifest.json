@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/flashfoodcalgary/static/css/main.4dd8ac24.css",
-    "main.js": "/flashfoodcalgary/static/js/main.a02fdfc4.js",
-    "static/js/453.6d87d5e6.chunk.js": "/flashfoodcalgary/static/js/453.6d87d5e6.chunk.js",
-    "index.html": "/flashfoodcalgary/index.html",
-    "main.4dd8ac24.css.map": "/flashfoodcalgary/static/css/main.4dd8ac24.css.map",
-    "main.a02fdfc4.js.map": "/flashfoodcalgary/static/js/main.a02fdfc4.js.map",
-    "453.6d87d5e6.chunk.js.map": "/flashfoodcalgary/static/js/453.6d87d5e6.chunk.js.map"
+    "main.css": "/flashfood/static/css/main.4dd8ac24.css",
+    "main.js": "/flashfood/static/js/main.36956371.js",
+    "static/js/453.6d87d5e6.chunk.js": "/flashfood/static/js/453.6d87d5e6.chunk.js",
+    "index.html": "/flashfood/index.html",
+    "main.4dd8ac24.css.map": "/flashfood/static/css/main.4dd8ac24.css.map",
+    "main.36956371.js.map": "/flashfood/static/js/main.36956371.js.map",
+    "453.6d87d5e6.chunk.js.map": "/flashfood/static/js/453.6d87d5e6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4dd8ac24.css",
-    "static/js/main.a02fdfc4.js"
+    "static/js/main.36956371.js"
   ]
 }
