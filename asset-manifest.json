@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/flashfood/static/css/main.41ad9343.css",
-    "main.js": "/flashfood/static/js/main.4dbb121c.js",
+    "main.js": "/flashfood/static/js/main.a842c13b.js",
     "static/js/453.79df0316.chunk.js": "/flashfood/static/js/453.79df0316.chunk.js",
     "static/media/fa-solid-900.ttf": "/flashfood/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
     "static/media/fa-brands-400.ttf": "/flashfood/static/media/fa-brands-400.1815e00441357e01619e.ttf",
@@ -13,11 +13,11 @@
     "static/media/fa-v4compatibility.woff2": "/flashfood/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
     "index.html": "/flashfood/index.html",
     "main.41ad9343.css.map": "/flashfood/static/css/main.41ad9343.css.map",
-    "main.4dbb121c.js.map": "/flashfood/static/js/main.4dbb121c.js.map",
+    "main.a842c13b.js.map": "/flashfood/static/js/main.a842c13b.js.map",
     "453.79df0316.chunk.js.map": "/flashfood/static/js/453.79df0316.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.41ad9343.css",
-    "static/js/main.4dbb121c.js"
+    "static/js/main.a842c13b.js"
   ]
 }
