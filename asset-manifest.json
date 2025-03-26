@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/flashfood/static/css/main.9c27f952.css",
+    "main.css": "/flashfood/static/css/main.47454689.css",
     "main.js": "/flashfood/static/js/main.d02249ff.js",
     "static/js/453.79df0316.chunk.js": "/flashfood/static/js/453.79df0316.chunk.js",
     "static/media/fa-solid-900.ttf": "/flashfood/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
@@ -12,12 +12,12 @@
     "static/media/fa-v4compatibility.ttf": "/flashfood/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
     "static/media/fa-v4compatibility.woff2": "/flashfood/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
     "index.html": "/flashfood/index.html",
-    "main.9c27f952.css.map": "/flashfood/static/css/main.9c27f952.css.map",
+    "main.47454689.css.map": "/flashfood/static/css/main.47454689.css.map",
     "main.d02249ff.js.map": "/flashfood/static/js/main.d02249ff.js.map",
     "453.79df0316.chunk.js.map": "/flashfood/static/js/453.79df0316.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c27f952.css",
+    "static/css/main.47454689.css",
     "static/js/main.d02249ff.js"
   ]
 }
